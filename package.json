@@ -1,0 +1,22 @@
+{
+  "name": "voting_event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clydet/voting_event.git"
+  },
+  "author": "clydet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clydet/voting_event/issues"
+  },
+  "homepage": "https://github.com/clydet/voting_event#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
