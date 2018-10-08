@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/clydet/voting_event#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
     "mocha": "^5.2.0"
   }
 }
